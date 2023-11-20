@@ -13,6 +13,6 @@
     "react-icons": "^4.11.0"
   },
   "engines": {
-    "node": "latest"
+    "node": "node": "18.x"
   }
 }
