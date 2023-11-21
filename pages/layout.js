@@ -3,7 +3,7 @@ import React from 'react';
 //import Head from 'next/head';
 //import Link from 'next/link';
 import { useState, useEffect } from 'react';
-
+import { Html, Head, Main, NextScript } from 'next/document';
 import Header from './components/header';
 import Footer from './components/footer';
 
