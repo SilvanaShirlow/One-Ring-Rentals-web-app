@@ -48,7 +48,7 @@ const RootLayout = ({ children }) => {
     }, []);
   
     
-     return (
+     /*return (
        <Html lang="en">
           <Head>
             <title>One Ring Rentals</title>
@@ -62,7 +62,7 @@ const RootLayout = ({ children }) => {
           </div>
         </body>
       // </Html>
-  );
+  );*/
   }
   
   export default RootLayout;
